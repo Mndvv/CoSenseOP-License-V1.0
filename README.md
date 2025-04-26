@@ -2,9 +2,7 @@
 Respective License for Developer based on Common Sense.
 
 # Content of License
-**CoSenseOPv1 License
-
-**Version 1.0
+## CoSenseOPv1 License #Version 1.0
 
 -1. License Grant  
 Permission is hereby granted to any individual obtaining a copy of this software and associated documentation files (the "Software") to use, copy, modify, and distribute copies of the Software, provided that the following conditions are met:
